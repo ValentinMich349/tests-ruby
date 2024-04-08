@@ -1,7 +1,7 @@
-def hello #testOK
+def hello 
   return "Hello!"
 end
 
-def greet(name) #testOk
+def greet(name) 
   return "Hello, #{name}!"
 end

@@ -1,20 +1,20 @@
-def add(nb1,nb2) #testOK
+def add(nb1,nb2) 
     return nb1+nb2
   end 
   
-  def subtract(nb1,nb2) #testOK
+  def subtract(nb1,nb2) 
     return nb1-nb2
   end 
   
-  def sum(arr) #testOK
+  def sum(arr) 
     return arr.sum #somme les éléments d'une array
   end 
   
-  def multiply(nb1, nb2) #testOK
+  def multiply(nb1, nb2) 
     return nb1*nb2
   end 
   
-  def power(nb1, nb2) #testOK
+  def power(nb1, nb2) 
     return nb1**nb2
   end 
   
